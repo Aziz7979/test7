@@ -1,0 +1,22 @@
+
+body {background-color: turquoise;}
+.test1 {
+    height: 200px; border: 25px; background-color: darkorange; font-size: 80px; text-align: center;
+    margin: 20px; 
+}
+
+
+
+li {
+    float: left;
+  }
+  
+  a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+  }
+
+img {
+    height: 200px; margin: 0px;
+}
